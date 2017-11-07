@@ -1,0 +1,80 @@
+
+
+div.wrapper{
+  width: 100%;
+  max-width: 800px;
+  margin: 0px auto;
+}
+
+div.clearfix{
+  clear:both;
+}
+
+div.bluebox{
+  width: 30%;
+  float: left;
+  background-color: darkblue;
+  height: 30px;
+  margin: 10px;
+}
+
+div.orangebox{
+  width: 30%;
+  height: 30px;
+  float: left;
+  background-color: orange;
+  margin: 10px;
+}
+
+div.purplebox{
+  width: 100%;
+  background-color: purple;
+  height: 150px;
+  margin: 10px;
+}
+
+
+div.greenbox{
+  width: 100%;
+  background-color: green;
+  height: 150px;
+  margin: 10px;
+}
+
+div.pinkbox{
+  width: 30%;
+  background-color: pink;
+  height: 30px;
+  margin: 10px;
+  text-align: center;
+  display: block;
+}
+
+div.redbox{
+  width: 30%;
+  background-color: red;
+  height: 30px;
+  margin: 10px;
+  text-align: center;
+  display: block;
+}
+
+p{
+  font-family: arial, sans-serif;
+  font-size: 18px;
+}
+
+h1{
+  font-family: arial, sans-serif;
+  font-size: 24px;
+  color: darkblue;
+  text-align: center;
+  margin-top: 50px;
+}
+
+h2{
+  font-family: arial, sans-serif;
+  font-size: 20px;
+  color: darkblue;
+  text-align: left;
+}
